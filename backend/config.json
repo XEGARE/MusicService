@@ -1,0 +1,5 @@
+{
+    "secret": "RANDOM_SECRET_KEY",
+    "picturesFolder": "uploads/pictures/",
+    "songsFolder": "uploads/songs/"
+}

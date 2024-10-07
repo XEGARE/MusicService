@@ -1,0 +1,254 @@
+<mxfile host="65bd71144e">
+    <diagram id="WQbbCMcJoDs9Co81s75p" name="Page-1">
+        <mxGraphModel dx="2029" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="64" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.15;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="30">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="-155"/>
+                            <mxPoint x="280" y="50"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.15;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="-155"/>
+                            <mxPoint x="280" y="-30"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="84" value="Запрос на изменение" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="1" source="78" target="33">
+                    <mxGeometry x="-0.7867" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="490" y="93"/>
+                            <mxPoint x="490" y="-90"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="Запрос содержимого альбома" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="49" target="33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Список песен" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="49">
+                    <mxGeometry x="0.7674" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="Список избранных/созданных альбомов" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="67">
+                    <mxGeometry x="0.5596" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="Запрос файла" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="1" source="49" target="48">
+                    <mxGeometry x="0.6611" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="Добавление&lt;br&gt;альбома" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="1" source="73" target="33">
+                    <mxGeometry x="-0.8462" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="490" y="170"/>
+                            <mxPoint x="490" y="-90"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="Данные&lt;br&gt;регистрации" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="19">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-40" y="220"/>
+                            <mxPoint x="-40" y="-100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="Данные&lt;br&gt;входа" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-10" y="220"/>
+                            <mxPoint x="-10" y="-20"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="Токен" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="30">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="20" y="220"/>
+                            <mxPoint x="20" y="60"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="Использование плеера" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="49">
+                    <mxGeometry x="0.6923" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="74" value="Данные альбома" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="73">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="Открытие избранных/созданных альбомов" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="67">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="115" y="280"/>
+                            <mxPoint x="443" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="Обложка альбома" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="78">
+                    <mxGeometry x="0.1926" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="82" value="Данные альбома" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="78">
+                    <mxGeometry x="0.3178" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="87" value="Поисковый запрос" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="86">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="90" y="140"/>
+                            <mxPoint x="530" y="140"/>
+                            <mxPoint x="530" y="-20"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="Пользователь" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="200" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Добавление пользователя" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" edge="1" parent="1" source="19" target="33">
+                    <mxGeometry x="0.7188" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="400" y="-100"/>
+                            <mxPoint x="400" y="-130"/>
+                        </Array>
+                        <mxPoint x="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="Авторизованный доступ" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="19" target="15">
+                    <mxGeometry x="0.7255" y="10" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="-90"/>
+                            <mxPoint x="240" y="220"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="Регистрация" style="html=1;dashed=0;whitespace=wrap;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="-120" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Запросы данных пользователя" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="33">
+                    <mxGeometry x="0.7143" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="-10"/>
+                            <mxPoint x="240" y="220"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="Авторизация" style="html=1;dashed=0;whitespace=wrap;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="-40" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="70"/>
+                            <mxPoint x="240" y="220"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="60" value="Проверка пользователя" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="33">
+                    <mxGeometry x="0.7895" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="460" y="60"/>
+                            <mxPoint x="460" y="-90"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="Аутентификация" style="html=1;dashed=0;whitespace=wrap;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Данные пользователя" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.15;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="19">
+                    <mxGeometry x="-0.7643" relative="1" as="geometry">
+                        <mxPoint x="1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="89" value="Результирующий список" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="86">
+                    <mxGeometry x="0.2808" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="База&lt;br&gt;данных" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="-160" width="90" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Потоковое вещание" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="48" target="49">
+                    <mxGeometry x="0.6667" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="Хранилище" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="810" y="-10" width="90" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Отображение проигрываемого&lt;br&gt;альбома и воспроизведение&lt;br&gt;песен" style="html=1;dashed=0;whitespace=wrap;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="280" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="Запрос избранных/созданных альбомов" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="1" source="67" target="33">
+                    <mxGeometry x="0.4366" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="515" y="-70"/>
+                            <mxPoint x="740" y="-70"/>
+                            <mxPoint x="740" y="-90"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="Отображение&lt;br&gt;избранных/созданных&lt;br&gt;альбомов" style="html=1;dashed=0;whitespace=wrap;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="200" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="Добавление картинки" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="73" target="48">
+                    <mxGeometry x="0.7265" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="550" y="190"/>
+                            <mxPoint x="550" y="40"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" value="Создание&lt;br&gt;альбома" style="html=1;dashed=0;whitespace=wrap;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="160" width="75" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="Добавление файла" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" edge="1" parent="1" source="78" target="48">
+                    <mxGeometry x="0.6936" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="550" y="117"/>
+                            <mxPoint x="550" y="20"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="78" value="Изменение&lt;br&gt;созданного&lt;br&gt;альбома" style="html=1;dashed=0;whitespace=wrap;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="80" width="90" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="Запрос на поиск" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="1" source="86" target="33">
+                    <mxGeometry x="-0.3769" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="740" y="-27"/>
+                            <mxPoint x="740" y="-90"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="86" value="Поиск" style="html=1;dashed=0;whitespace=wrap;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="-35" width="50" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
